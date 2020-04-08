@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "57259515038",
+    "firebase_url": "https://messeji-70ed8.firebaseio.com",
+    "project_id": "messeji-70ed8",
+    "storage_bucket": "messeji-70ed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57259515038:android:0864fd3d4c2f076b07af8f",
+        "android_client_info": {
+          "package_name": "com.gun.messeji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57259515038-h54jp5tr2f4hn62ud4o4n6271dbj20et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGUt-LfDUKpGrZiQRYNt1Ar6Q5QZAC0PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57259515038-h54jp5tr2f4hn62ud4o4n6271dbj20et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
